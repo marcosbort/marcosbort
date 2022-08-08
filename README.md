@@ -1,4 +1,11 @@
 ### Hi there 👋
+<!--
+Disfruto del trabajo en equipo, aprender y participar en proyectos desafiantes. Me gusta poner especial cuidado en cada detalle del desarrollo, como la simplicidad, el rendimiento, el diseño funcional y un enfoque centrado en el usuario.
+
+Algunas de las tecnologías con las que trabajo: HTML5, CSS, Javascript, Typescript, React, Next, Sass, Less, Bootstrap, JSON, Git, OOP, Node.js y Bash.
+
+Otras herramientas que tengo experiencia utilizando: Adobe Photoshop, Adobe Ilustrator, Adobe XD, Figma
+-->
 
 <!--
 **marcosbort/marcosbort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
