@@ -1,4 +1,4 @@
-## Frontend Developer Jr | React.js | Next.js | Typescript
+### Frontend Developer Jr | React.js | Next.js | Typescript
 
 Encontré mi pasión en la programación. Disfruto del trabajo en equipo, aprender y participar en proyectos desafiantes. Me gusta poner especial cuidado en cada detalle del desarrollo, como la simplicidad, el rendimiento, el diseño funcional y un enfoque centrado en el usuario.
 
