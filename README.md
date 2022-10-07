@@ -1,15 +1,10 @@
 ### Frontend Developer Jr | React.js | Next.js | Typescript
 
-Encontré mi pasión en la programación. Disfruto del trabajo en equipo, aprender y participar en proyectos desafiantes. Me gusta poner especial cuidado en cada detalle del desarrollo, como la simplicidad, el rendimiento, el diseño funcional y un enfoque centrado en el usuario.
+Hace aproximadamente un año y medio decidí dar un giro en mi carrera profesional y avocarme de lleno al desarrollo de software. Dediqué el primer año enteramente a estudiar programación, y ya desde hace 6 meses estoy realizando una práctica profesional en PingPod.
 
-Empatizo con las metodologías ágiles, como Scrum. Algunas de las tecnologías con las que trabajo son: HTML5, CSS, Javascript, Typescript, Node.js, React, Next, Sass, Less, Bootstrap, JSON, Git, OOP. Y las herramientas de diseño que utilizo son: Adobe Photoshop, Adobe Ilustrator, Adobe XD, Figma
-<!--
 Disfruto del trabajo en equipo, aprender y participar en proyectos desafiantes. Me gusta poner especial cuidado en cada detalle del desarrollo, como la simplicidad, el rendimiento, el diseño funcional y un enfoque centrado en el usuario.
 
-Algunas de las tecnologías con las que trabajo: HTML5, CSS, Javascript, Typescript, React, Next, Sass, Less, Bootstrap, JSON, Git, OOP, Node.js y Bash.
-
-Otras herramientas que tengo experiencia utilizando: Adobe Photoshop, Adobe Ilustrator, Adobe XD, Figma
--->
+Algunas de las tecnologías con las que trabajo son: Typescript, Javascript, HTML5, CSS/Sass/Less, React, Next, Node.js, Bootstrap, JSON, Git, OOP. Tengo buen ojo para la maquetación y manejo con facilidad las siguientes herramentas de diseño: Figma, Adobe Ilustrator, Adobe Photoshop, Adobe XD.
 
 <!--
 ### Hi there 👋
