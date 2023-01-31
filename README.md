@@ -1,6 +1,6 @@
 ### Frontend Developer Jr | React.js | Next.js | Typescript
 
-Hace aproximadamente un año y medio decidí dar un giro en mi carrera profesional y avocarme de lleno al desarrollo de software. Dediqué el primer año enteramente a estudiar programación, y ya desde hace 9 meses estoy realizando una práctica profesional en PingPod.
+Hace aproximadamente un año y medio decidí dar un giro en mi carrera profesional y avocarme de lleno al desarrollo de software. Dediqué el primer año enteramente a estudiar programación, y ya desde hace 11 meses estoy realizando una práctica profesional en PingPod.
 
 Disfruto del trabajo en equipo, aprender y participar en proyectos desafiantes. Me gusta poner especial cuidado en cada detalle del desarrollo, como la simplicidad, el rendimiento, el diseño funcional y un enfoque centrado en el usuario.
 
