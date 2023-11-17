@@ -1,10 +1,8 @@
 ### Frontend Developer Jr | React.js | Next.js | Typescript
 
-Hace aproximadamente un año y medio decidí dar un giro en mi carrera profesional y avocarme de lleno al desarrollo de software. Dediqué el primer año enteramente a estudiar programación, y ya desde hace 11 meses estoy realizando una práctica profesional en PingPod.
+Me gusta poner especial cuidado en cada detalle del desarrollo, como la simplicidad, el rendimiento, el diseño funcional y un enfoque centrado en el usuario.
 
-Disfruto del trabajo en equipo, aprender y participar en proyectos desafiantes. Me gusta poner especial cuidado en cada detalle del desarrollo, como la simplicidad, el rendimiento, el diseño funcional y un enfoque centrado en el usuario.
-
-Algunas de las tecnologías con las que trabajo son: Typescript, Javascript, HTML5, CSS/Sass/Less, React, Next, Node.js, Bootstrap, JSON, Git, OOP. Tengo buen ojo para la maquetación y manejo con facilidad las siguientes herramentas de diseño: Figma, Adobe Ilustrator, Adobe Photoshop, Adobe XD.
+Algunas de las tecnologías con las que trabajo son: Typescript, Javascript, HTML5, CSS/Sass/Less, React, Next, Node.js, Bootstrap, JSON, Git, OOP. Tengo buen ojo para la maquetación (perfect pixel) y manejo con facilidad las siguientes herramentas de diseño: Figma, Adobe Ilustrator, Adobe Photoshop, Adobe XD.
 
 <!--
 ### Hi there 👋
